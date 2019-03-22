@@ -10,8 +10,8 @@ For executing the project, please follow the process below:
 
 System requirements: 
 
-Python 3
-Node JS
-SQL workbench with localhost
-Tableau 10
+Python 3 <br>
+Node JS <br>
+SQL workbench with localhost <br>
+Tableau 10 <br>
 
