@@ -1,4 +1,4 @@
-# Web-scraping-for-Recruitment-Analytics
+# Web-Scraping-for-Recruitment-Analytics
 
 This project was implemented for Continental Tire LLC. 
 
